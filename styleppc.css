@@ -1,0 +1,291 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#container1 {
+  background: #ffffff;
+  background: -webkit-radial-gradient(center, ellipse cover,  #ffffff 30%,#e5e5e5 74%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=1 );
+
+  width:1000px;
+  height: 100px
+  }
+#box1 {
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 60px;
+  }
+
+#box2 {
+  font-family:'Times New Roman';, verdana, arial,serif;
+  color:black;
+  font-size: 14px;
+  display: inline-block;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  padding-left: 10px;
+  margin-left: 70px;
+
+}
+
+#navbar {
+  background-color: #e8ebef;
+  width:980px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left:20px;
+  border-top: solid;
+  border-color: silver;
+}
+
+#navbar li{
+  font-size: 17px;
+  text-decoration: none;;
+  display:inline;
+  color:#7f8184;
+  margin-left: 15px;
+}
+
+#container2 {
+  background: #45484d;
+  background: -moz-radial-gradient(center, ellipse cover,  #45484d 20%, #000000 82%);
+  background: -webkit-radial-gradient(center, ellipse cover,  #45484d 20%,#000000 82%);
+  background: radial-gradient(ellipse at center,  #45484d 20%,#000000 82%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 );
+
+  margin:10px 0px 0px 0px;
+  width:1000px;
+  height: 700px;
+
+
+}
+
+#box4 {
+  margin:10px;
+  width:380px;
+  border:5px solid white;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#box5 {
+  height:16px;
+  width:510px;
+  background-color:gold;
+  display:inline-block;
+  vertical-align: top;
+  margin:10px 25px 0px 40px;
+
+
+}
+#box5 h6{
+  color:black;
+  font-size: 12px;
+
+}
+
+#box6 {
+  display:inline-block;
+  margin:0px 25px 0px 0px;
+  width:490px;
+  height:230px;
+  background-color:background: #a4a4a4;
+    background: -moz-linear-gradient(left,  #a4a4a4 23%, #646464 87%);
+    background: -webkit-linear-gradient(left,  #a4a4a4 23%,#646464 87%);
+    background: linear-gradient(to right,  #a4a4a4 23%,#646464 87%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4a4a4', endColorstr='#646464',GradientType=1 );
+  padding: 10px;
+
+
+
+}
+
+#box6 h5{
+  padding:10px
+  margin-top:12px;
+  margin-bottom:12px;
+  font-size: 14px;
+  color:white;
+
+
+}
+
+#box6 p{
+  font-size: 14px;
+  color:white;
+  margin-bottom:10px;
+}
+
+#little_logo {
+  height:30px;
+  display:inline-block;
+  width:900px;
+
+}
+
+#little_logo img {
+  height:30px;
+  width:100px;
+  border-radius: 6px;
+  margin-right: 12px;
+}
+
+#little_text {
+  display: inline-block;
+  color:#FFFF99;
+  font-family: sans-serif;
+}
+
+#box7 {
+
+    height:16px;
+    width:220px;
+    background-color:gold;
+    display:inline-block;
+    vertical-align: top;
+    margin:40px 10px 0px 10px;
+  }
+
+
+#box7 h6{
+    color:black;
+    font-size: 12px;
+  }
+
+
+#auto_img {
+  width:100px;
+
+}
+
+#auto_text {
+  background-color: lightyellow;
+  font-size: 12px;
+  height:150px;
+  padding:20px;
+}
+
+#arrow_button{
+  margin-left: 30px;
+  margin-top: 30px;
+  padding:15px;
+  border-style:solid;
+  border-radius: 30px;
+}
+
+#box8 {
+
+    height:16px;
+    width:220px;
+    background-color:gold;
+    display:inline-block;
+    vertical-align: top;
+    margin:40px 10px 0px 1px;
+  }
+
+
+#box8 h6{
+    color:black;
+    font-size: 12px;
+  }
+
+
+#commercial_img {
+  width:100px;
+
+}
+
+#commercial_text {
+  background-color: lightyellow;
+  font-size: 12px;
+  height:150px;
+  padding:20px;
+}
+
+#arrow_button2{
+  margin-left: 30px;
+  margin-top: 30px;
+  padding:15px;
+  border-style:solid;
+  border-radius: 30px;
+}
+
+
+
+#box9 {
+
+    height:16px;
+    width:220px;
+    background-color:gold;
+    display:inline-block;
+    vertical-align: top;
+    margin:40px 15px 0px 1px;
+  }
+
+
+#box9 h6 {
+    color:black;
+    font-size: 12px;
+  }
+
+
+#industrial_img {
+  width:100px;
+
+}
+
+#industrial_text {
+  background-color: lightyellow;
+  font-size: 12px;
+  height:150px;
+  padding:20px;
+
+}
+
+#arrow_button3 {
+  margin-left: 30px;
+  margin-top: 30px;
+  padding:15px;
+  border-style:solid;
+  border-radius: 30px;
+}
+
+
+#box10 {
+
+    height:16px;
+    width:220px;
+    background-color:gold;
+    display:inline-block;
+    vertical-align: top;
+    margin:40px 25px 0px 1px;
+  }
+
+
+#box10 h6 {
+    color:black;
+    font-size: 12px;
+  }
+
+
+#diesel_img {
+  width:100px;
+
+}
+
+#diesel_text {
+  background-color: lightyellow;
+  font-size: 12px;
+  height:150px;
+  padding:20px;
+
+}
+
+#arrow_button4 {
+  margin-left: 30px;
+  margin-top: 30px;
+  padding:15px;
+  border-style:solid;
+  border-radius: 30px;
+}

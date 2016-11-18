@@ -1,0 +1,71 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+
+#img1 {
+  display: inline-block;
+}
+#img2 {
+  display: inline-block;
+}
+#img3 {
+  display: inline-block;
+}
+#img4 {
+  display: inline-block;
+}
+#img5 {
+  display: inline-block;
+}
+#img6 {
+  display: inline-block;
+}
+#img7 {
+  display: inline-block;
+}
+#img8 {
+  display: inline-block;
+}
+
+
+#img1 img{
+  width:120px;
+  height:120px;
+}
+
+#img2 img{
+  width:120px;
+  height:120px;
+}
+
+#img3 img{
+  width:120px;
+  height:120px;
+}
+
+#img4 img{
+  width:120px;
+  height:120px;
+}
+
+#img5 img{
+  width:120px;
+  height:120px;
+}
+
+#img6 img{
+  width:120px;
+  height:120px;
+}
+
+#img7 img{
+  width:120px;
+  height:120px;
+}
+
+#img8 img{
+  width:120px;
+  height:120px;
+}

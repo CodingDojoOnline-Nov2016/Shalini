@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title> Disappearing Ninja</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" type="text/css" href="ninja.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+      <script type="text/javascript">
+        $(document).ready(function() {
+          $('img').click(function(){
+            $(this).hide()
+          });
+          $('#button').click(function() {
+            $('img').show()
+          });
+
+        });
+      </script>
+
+  </head>
+
+  <body>
+    <div id="img1">
+      <img src="daeny1.JPG">
+    </div>
+
+    <div id="img2">
+      <img src="IMG_1200.JPG">
+    </div>
+
+    <div id="img3">
+      <img src="IMG_1333.JPG">
+    </div>
+
+    <div id="img4">
+      <img src="IMG_1384.JPG">
+    </div>
+
+    <div id="img5">
+      <img src="IMG_1399.JPG">
+    </div>
+
+    <div id="img6">
+      <img src="IMG_1472.JPG">
+    </div>
+
+
+    <div id="img7">
+      <img src="IMG_1581.JPG">
+    </div>
+
+    <div id="img8">
+      <img src="IMG_1616.JPG">
+    </div>
+
+    <div id="button">
+      <input type="button" value="Restore">
+    </div>
+</body>
+</html>
